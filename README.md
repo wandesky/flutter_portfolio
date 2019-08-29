@@ -7,6 +7,7 @@ This app demonstrates my ability to use the following:
 - Flutter
 - API : Fetching weather data using OpenWeatherMap.org API
 - Pass data across multiple sceens/routes
+
 ![](weather1.PNG) ![](weather2.PNG)
 
 ## Message/Chat Application
@@ -18,6 +19,7 @@ This app demonstrates my ability to use the following:
 - User Authentication and Verification (Sign Up/Log In)
 - Smooth UI/UX for reading and writing messages
 - Pass data across multiple sceens/routes
+
 ![](chat.PNG)
 
 ## BMI Calculator
@@ -28,6 +30,7 @@ This app demonstrates my ability to use/do the following:
 - Pixel perfect implementation of UI (came across the UI from Dribble)
 - Pass data across multiple screens/routes
 - Use of gestures in Android Mobile devices
+
 ![](bmi-calc.PNG)
 
 ## XYLOPHONE APP
